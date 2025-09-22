@@ -1,28 +1,28 @@
+tap "powershell/tap"
+brew "webp"
 brew "arp-scan"
-brew "coreutils"
+brew "libssh2"
+brew "bat"
 brew "eza"
 brew "fd"
+brew "ffmpeg"
 brew "fzf"
 brew "gnupg"
 brew "imagemagick"
+brew "ipcalc"
 brew "mas"
-brew "ripgrep"
 brew "starship"
 brew "telnet"
 brew "yadm"
-brew "zoxide"
 brew "zsh"
 cask "alacritty"
-cask "asana"
+cask "balenaetcher"
+cask "battery"
 cask "blockblock"
 cask "brave-browser"
-cask "canva"
-cask "claude"
-cask "cloudflare-warp"
 cask "codeedit"
-cask "copilot-money"
 cask "coteditor"
-cask "discord"
+cask "dropbox"
 cask "font-caskaydia-mono-nerd-font"
 cask "font-fira-code"
 cask "font-fira-code-nerd-font"
@@ -32,27 +32,31 @@ cask "font-jetbrains-mono-nerd-font"
 cask "font-meslo-lg-nerd-font"
 cask "font-roboto-mono-nerd-font"
 cask "hiddenbar"
-cask "itsycal"
 cask "knockknock"
-cask "ledger-live"
 cask "logi-options+"
 cask "lulu"
-cask "microsoft-edge"
 cask "monitorcontrol"
 cask "mos"
 cask "neo-network-utility"
-cask "netiquette"
-cask "notion"
+cask "pearcleaner"
+cask "pika"
+cask "powershell"
 cask "ransomwhere"
 cask "rectangle"
 cask "silentknight"
+cask "slack"
 cask "sloth"
-cask "zoom"
-mas "Adblock Plus", id: 1432731683
+cask "utm"
+cask "xprocheck"
+mas "Apple Configurator", id: 1037126344
 mas "Bear", id: 1091189122
 mas "Bitwarden", id: 1352778147
-mas "Flighty", id: 1358823008
+mas "Bluebook", id: 1645016851
+mas "Jump Desktop", id: 524141863
+mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
-mas "Slack", id: 803453959
+mas "Pure Paste", id: 1611378436
+mas "Remote Desktop", id: 409907375
+mas "Windows App", id: 1295203466
