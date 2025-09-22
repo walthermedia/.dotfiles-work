@@ -12,7 +12,7 @@ My dotfile configurations (following [@marcogreiveldinger setup](https://github.
 To install yadm temporarily, then clone the .dotfiles repo and bootstrap the system, run the following command:
 
 ```bash
-curl -sL https://github.com/walthermedia/.dotfiles/raw/main/pre_bootstrap.sh | bash
+curl -sL https://github.com/walthermedia/.dotfiles-work/raw/main/pre_bootstrap.sh | bash
 ```
 
 
