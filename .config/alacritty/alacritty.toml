@@ -1,0 +1,24 @@
+general.import = [ "~/.config/themes/alacritty-themes/tokyonight.toml" ]
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+normal = { family = "CaskaydiaMono Nerd Font", style = "Regular" }
+bold = { family = "CaskaydiaMono Nerd Font", style = "Bold" }
+italic = { family = "CaskaydiaMono Nerd Font", style = "Italic" }
+size = 16
+
+[window]
+padding.x = 14
+padding.y = 14
+decorations = "buttonless"
+
+[window.dimensions]
+columns = 105
+lines = 35
+
+[keyboard]
+bindings = [
+{ key = "F11", action = "ToggleFullscreen" }
+]
