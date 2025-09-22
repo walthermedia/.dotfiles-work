@@ -57,6 +57,5 @@ mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
-mas "Pure Paste", id: 1611378436
 mas "Remote Desktop", id: 409907375
 mas "Windows App", id: 1295203466
